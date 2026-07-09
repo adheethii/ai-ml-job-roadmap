@@ -158,3 +158,20 @@ Completed roadmaps:
 **Open to opportunities — let's connect!**
 
 </div>
+
+
+---
+
+## 🆕 Latest Update — July 2026
+
+### New Project: AI Interview Simulator 🎤
+Built a 5th flagship project — [AI Interview Simulator](https://github.com/adheethii/ai-interview-simulator)
+- Pick role + difficulty → AI asks questions → scores answers in real time
+- 100% local using Ollama — no API costs
+- Final performance report with strengths, weak areas, study recommendations
+
+### Milestones Updated
+- ✅ 5 projects built and documented
+- ✅ 150+ GitHub contributions
+- ✅ 80+ TIL notes across 9 categories
+- ✅ 7+ DSA problems solved

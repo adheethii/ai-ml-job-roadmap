@@ -65,7 +65,7 @@ Self-learning: Prompt Engineering, RAG, FastAPI, Docker
 
 ## 📚 Learning in Public
 
-All my learning notes are documented daily in my **[TIL repo](https://github.com/adheethii/Til)** — 68+ notes across 8 categories.
+All my learning notes are documented daily in my **[TIL repo](https://github.com/adheethii/Til)** — 80+ notes across 9 categories.
 
 Completed roadmaps:
 - ✅ [Prompt Engineering Roadmap](https://github.com/adheethii/Til/blob/main/prompt-engineering/ROADMAP.md)

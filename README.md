@@ -175,3 +175,5 @@ Built a 5th flagship project — [AI Interview Simulator](https://github.com/adh
 - ✅ 150+ GitHub contributions
 - ✅ 80+ TIL notes across 9 categories
 - ✅ 7+ DSA problems solved
+
+

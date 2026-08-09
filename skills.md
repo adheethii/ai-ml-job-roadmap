@@ -23,9 +23,9 @@ Complete skills inventory — tracking from beginner to job-ready.
 - ✅ Cross-Validation
 - ✅ Hyperparameter Tuning (GridSearch, RandomSearch)
 - ✅ Handling Imbalanced Data (SMOTE)
-- ⬜ Gradient Boosting (XGBoost, LightGBM)
-- ⬜ Neural Networks basics
-- ⬜ MLflow (experiment tracking)
+- ✅️ Gradient Boosting (XGBoost, LightGBM)
+- ✅️ Neural Networks basics
+- ✅️ MLflow (experiment tracking)
 
 ---
 
@@ -38,7 +38,7 @@ Complete skills inventory — tracking from beginner to job-ready.
 - ✅ Ollama (local LLMs)
 - ✅ HuggingFace basics
 - ⬜ LangGraph (multi-agent)
-- ⬜ Fine-tuning LLMs
+- ✅️ Fine-tuning LLMs
 - ⬜ LlamaIndex
 
 ---
@@ -48,8 +48,8 @@ Complete skills inventory — tracking from beginner to job-ready.
 - ✅ OpenCV (image processing)
 - ✅ Face recognition
 - ✅ Object detection (Haar cascades)
-- ⬜ YOLO
-- ⬜ Deep learning for CV (CNNs)
+- ✅️ YOLO
+- ✅️ Deep learning for CV (CNNs)
 
 ---
 
@@ -70,7 +70,7 @@ Complete skills inventory — tracking from beginner to job-ready.
 - ✅ REST APIs
 - ⬜ Docker Compose (advanced)
 - ⬜ CI/CD (GitHub Actions)
-- ⬜ Cloud (AWS/GCP/Azure)
+- ✅️ Cloud (AWS/GCP/Azure)
 - ⬜ Kubernetes basics
 
 ---

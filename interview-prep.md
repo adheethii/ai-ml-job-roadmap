@@ -18,10 +18,10 @@ Tracking interview prep across all key areas for AI/ML Engineer roles.
 - ⬜ Ensemble methods (Bagging, Boosting)
 
 ### Deep Learning
-- ⬜ Neural network basics
+- ✅️ Neural network basics
 - ⬜ Activation functions
 - ⬜ Backpropagation
-- ⬜ CNNs, RNNs, Transformers
+- ✅️ CNNs, RNNs, Transformers
 
 ### NLP & LLMs
 - ✅ RAG architecture
@@ -30,7 +30,7 @@ Tracking interview prep across all key areas for AI/ML Engineer roles.
 - ✅ LangChain agents
 - ⬜ Transformer architecture
 - ⬜ Attention mechanism
-- ⬜ Fine-tuning approaches
+- ✅️ Fine-tuning approaches
 
 ---
 
@@ -72,7 +72,7 @@ Tracking interview prep across all key areas for AI/ML Engineer roles.
 - ✅ Walk me through your projects
 - ⬜ Biggest challenge you faced
 - ⬜ How you work in a team
-- ⬜ Why this company/role
+- ✅️ Why this company/role
 
 ---
 

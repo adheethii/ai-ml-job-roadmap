@@ -2,7 +2,7 @@
 
 Tracking every application — company, role, status, and follow-ups.
 
----
+--- 
 
 ## 📊 Summary
 

@@ -2,7 +2,7 @@
 
 Detailed breakdown of each project — built for interview preparation and portfolio clarity.
 
----
+--- 
 
 ## 🤖 1. Agentic RAG AI Research Assistant
 

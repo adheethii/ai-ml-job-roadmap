@@ -1,7 +1,7 @@
 # 📖 Resources
 
 Curated list of resources I actually used and recommend.
-
+ 
 ---
 
 ## Documentation (Best First Stop)

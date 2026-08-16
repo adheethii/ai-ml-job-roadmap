@@ -1,4 +1,4 @@
-# 💼 Job Applications Tracker
+# 💼 Job Applications Tracker 
 
 Tracking every application — company, role, status, and follow-ups.
 
